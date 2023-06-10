@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feysalabdi&label=Profile%20views&color=0e75b6&style=flat" alt="feysalabdi" /> </p>
 
-- 🌱 I’m currently learning **Html&css Javascript Dart&flutter**
+- 🌱 I’m currently learning ** Dart&flutter**
 
 - 💬 Ask me about **Flutter&dart**
 
