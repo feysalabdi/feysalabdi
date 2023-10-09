@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flutter&dart**
 
-- 📫 How to reach me **feisalhaajiaxmed@gmail.com**
+- 📫 How to reach me **feysalabdi2264@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
