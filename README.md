@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Feysal Abdi Ahmed</h1>
+<h1 align="center">Hello 👋, I'm Feysal</h1>
 
 <h3 align="center">aspiring to become Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feysalabdi&label=Profile%20views&color=0e75b6&style=flat" alt="feysalabdi" /> </p>
 
-- 🌱 I’m currently learning ** Dart&flutter**
+- 🌱 I’m currently learning  Html , Css , JavaScript
 
-- 💬 Ask me about **Flutter&dart**
+- 💬 Ask me about Java,Asp.net,Html&Css
 
 - 📫 How to reach me **feysalabdi2264@gmail.com**
 
